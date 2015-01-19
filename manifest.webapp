@@ -1,0 +1,22 @@
+{
+    "version": "1.0.0",
+    "name": "Wow Weather",
+    "launch_path": "/index.html",
+    "description": "Wow Weather  is a  weather update app",
+    "icons": {
+        "16": "/images/icon16.png",
+		"48": "/images/icon48.png",
+		"128": "/images/icon128.png"
+    },
+    "developer": {
+        "name": "MD SAMI",
+        "url": "https://mozillians.org/en-US/u/mdsami.diu/",
+		"email": "mdsami.diu@gmail.com"
+    },
+	"licenses": {
+    "type": "MPL",
+    "url": "https://www.mozilla.org/MPL/2.0/"
+  },
+    "installs_allowed_from": ["*"],
+    "default_locale": "en"
+}
